@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity name="Interop.Accessibility.dll" version="1.1.0.0" processorArchitecture="msil"></assemblyIdentity>
+    <clrSurrogate clsid="{3C157C7C-1B32-3EAE-8135-C4803D1F7BA1}" name="Accessibility.AnnoScope"></clrSurrogate>
+    <clrSurrogate clsid="{C81D1FBC-1883-30E8-9C25-F0CFFCBC7B51}"
+        name="Accessibility._RemotableHandle"></clrSurrogate>
+    <clrSurrogate clsid="{9D071F73-DE7F-335C-ABF4-EDC6A2AA38CE}"
+        name="Accessibility.__MIDL_IWinTypes_0009"></clrSurrogate>
+    <clrSurrogate clsid="{B5F8350B-0548-48B1-A6EE-88BD00B4A5E7}"
+        name="Accessibility.CAccPropServicesClass"></clrSurrogate>
+    <file name="Interop.Accessibility.dll" hashalg="SHA1"></file>
+</assembly>
